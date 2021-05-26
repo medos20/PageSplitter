@@ -16,4 +16,4 @@ Created By : Mohammad Ibrahim. medos20.mi@gmail.com
 
 3-Keep in Mind that Splitted Facing Pages Technically are in the Same Spread, They are Splitted as (Vesro - Left Hand) and (Recto - Right Hand).
 
-![about] (https://github.com/medos20/PageSplitter/blob/main/About%20PageSplitter.jpg)
+![about](https://github.com/medos20/PageSplitter/blob/main/About%20PageSplitter.jpg)
