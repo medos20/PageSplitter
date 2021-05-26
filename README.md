@@ -1,7 +1,7 @@
 # PageSplitter
 Page Splitter v1.11 - InDesign JavaScript
 
-# Direct Download
+# Direct Download Link
 https://github.com/medos20/PageSplitter/blob/main/Page%20Splitter%20v1.11.zip
 
 # PaseSplitter v1.11
