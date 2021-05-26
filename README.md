@@ -18,7 +18,7 @@ Created By : Mohammad Ibrahim. medos20.mi@gmail.com
 
 ![about](https://github.com/medos20/PageSplitter/blob/main/About%20PageSplitter.jpg)
 
-# Video Tutorial
+# Video Tutorial (Arabic Language)
 [![IMAGE ALT TEXT HERE](https://github.com/medos20/PageSplitter/blob/main/%D9%83%D9%8A%D9%81%20%D8%AA%D9%82%D9%88%D9%85%20%D8%A8%D9%81%D8%B5%D9%84%20%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%A7%D8%A8%D9%84%D8%A9.jpg)](https://youtu.be/spYNKxpVUdE)
 
 
