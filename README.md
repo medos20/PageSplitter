@@ -8,6 +8,7 @@ https://github.com/medos20/PageSplitter/blob/main/Page%20Splitter%20v1.11.zip
 ![User Interface](https://github.com/medos20/PageSplitter/blob/main/PageSplitter_v1.11.jpg)
 
 # How it Works ?
+
 Simply Run the Script on faceing pages Document and select your prefer operation (Split or UnSplit)
 ![How it Works](https://github.com/medos20/PageSplitter/blob/main/SplitvsUnsplit.jpg)
 
