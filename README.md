@@ -1,6 +1,9 @@
 # PageSplitter
 Page Splitter v1.11 - InDesign JavaScript
 
+# PaseSplitter v1.11
+![User Interface](https://github.com/medos20/Write-out-Numbers-InDesign-JavaScript/blob/main/Script%20UI.jpg)
+
 # About
 Created By : Mohammad Ibrahim. medos20.mi@gmail.com
 
