@@ -6,6 +6,7 @@ Page Splitter v1.11 - InDesign JavaScript
 
 # How it Works ?
 Simply Run the Script on faceing pages Document and select your prefer operation (Split or UnSplit)
+![How it Works](https://github.com/medos20/PageSplitter/blob/main/SplitvsUnsplit.jpg)
 
 # About
 Created By : Mohammad Ibrahim. medos20.mi@gmail.com
